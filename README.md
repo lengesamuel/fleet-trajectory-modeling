@@ -5,7 +5,7 @@
 > Optimizing logistics routes using GPS trajectory analysis to reduce fuel consumption and ETA variance on the Abuja–Kaduna highway.
 
 **Author:** Samuel Lenge | **GitHub:** @lengesamuel71 | **Stack:** Python, Pandas, Matplotlib, Google Colab
-**Application:** ISTA Data Science 2027
+**Application:** ISTA PhD program 2026
 
 ### 🎯 Problem Statement
 Nigerian fleet operators lose 15-20% fuel to congestion and inefficient routing on the Abuja-Kaduna corridor. This project simulates 15 trucks (1500 GPS points) to detect bottlenecks, optimize routes, and flag fuel anomalies.
