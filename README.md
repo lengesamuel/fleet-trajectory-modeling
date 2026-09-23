@@ -1,3 +1,5 @@
+> **Note on Data:** Original fleet telematics and QGIS projects are proprietary to my employer and cannot be shared publicly. This repository is a reproducible reconstruction of my methodology using synthetic GPS data and OpenStreetMap for the same Abuja-Kaduna corridor, built with Python/GeoPandas to demonstrate the approach for academic review.
+
 # Fleet Trajectory Modeling – Abuja to Kaduna Corridor
 
 > Optimizing logistics routes using GPS trajectory analysis to reduce fuel consumption and ETA variance on the Abuja–Kaduna highway.
